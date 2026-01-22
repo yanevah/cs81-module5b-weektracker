@@ -58,3 +58,9 @@ const myWeek = [
     timeOfDay: "afternoon"
   }
 ];
+
+// PREDICTIONS
+// Highest enjoyment activity: Hiking
+// Most common category: Physical
+// Afternoon activities will be most frequent and moderately enjoyable
+
